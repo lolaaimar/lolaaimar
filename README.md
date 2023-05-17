@@ -1,6 +1,16 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="9EDA06A8-FC2B-4ACA-BBBF-3A29E5B3F532.PNG">
+ <source media="(prefers-color-scheme: light)" srcset="F3CA4153-98A5-408F-BC2C-A3BF270F3ADA.PNG">
+ <img alt="Lola Aimar Header image" src="F3CA4153-98A5-408F-BC2C-A3BF270F3ADA.PNG">
+</picture>
 
-### Skills
+## `Computer Science student @ FAMAF, UNC` 🇦🇷
+### `Functional Programming/Blockchain fellow` 
+<!-- Add an intro
+```
+```
+-->
+## Skills
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
