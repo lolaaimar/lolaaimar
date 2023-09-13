@@ -5,7 +5,7 @@
 </picture>
 
 ## `Computer Science student @ FAMAF, UNC` 🇦🇷
-### `Functional Programming/Blockchain fellow` 
+### `Functional Programming/Blockchain developer` 
 <!-- Add an intro
 ```
 ```
